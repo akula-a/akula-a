@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @akula-a
-- 👀 I’m interested in ...
+- 👀 I’m interested in technology consulting and software roles
 - 🌱 I’m currently learning Information Systems
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: aakula@andrew.cmu.edu
 
 <!---
